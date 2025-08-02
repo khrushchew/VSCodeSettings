@@ -19,5 +19,5 @@
         79
     ],
     "editor.fontSize": 25,
-    "explorer.autoReveal": "focusNoScroll"
+    "explorer.autoReveal": false,
 }
